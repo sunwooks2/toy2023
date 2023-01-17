@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Toy2023Application {
 
     public static void main(String[] args) {
+        System.out.println("push test");
         SpringApplication.run(Toy2023Application.class, args);
     }
 

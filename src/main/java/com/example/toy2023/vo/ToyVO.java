@@ -1,5 +1,8 @@
 package com.example.toy2023.vo;
 
+import lombok.Data;
+
+@Data
 public class ToyVO {
     String id;
     String name;
